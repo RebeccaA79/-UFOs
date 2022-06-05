@@ -13,6 +13,10 @@ The below image shows the layout of the UFO Sightings Webpage:
 
 
 Currently there is placeholder information in the various search fields. To perform a search using the city of San Diego as an example, type San Diego ion the search box next to "Enter a City" and hit the Enter button. The table will be filtered on the 3 sightings referencing San Diego. 
+  
+  ![San Diego Search Results](https://github.com/RebeccaA79/-UFOs/blob/main/san_diego_search_results.png)
+
+https://github.com/RebeccaA79/-UFOs/blob/main/san_diego_search_results.png
 
 To further narrow the search on top of the already filtered data, the user code input 1/1/2010 in the 'Enter a Date" field and hit enter (or tab). The table will update from 3 sightings to 2 sightings. 
 
