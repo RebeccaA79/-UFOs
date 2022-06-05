@@ -16,9 +16,9 @@ Currently there is placeholder information in the various search fields. To perf
   
   ![San Diego Search Results](https://github.com/RebeccaA79/-UFOs/blob/main/san_diego_search_results.png)
 
-https://github.com/RebeccaA79/-UFOs/blob/main/san_diego_search_results.png
-
 To further narrow the search on top of the already filtered data, the user code input 1/1/2010 in the 'Enter a Date" field and hit enter (or tab). The table will update from 3 sightings to 2 sightings. 
+
+  ![San Diego Search Results plus data](https://github.com/RebeccaA79/-UFOs/blob/main/san_diego_%2B_1.1.2010_search_results.png)
 
 To clear the search parameters, simply delete the data entered in the fields and the table will update accordingly back to the original dataset.
 
