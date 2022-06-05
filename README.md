@@ -9,7 +9,7 @@ The purpose of this project was to expand the functionality of the UFO Sightings
 
 The below image shows the layout of the UFO Sightings Webpage:
 
-  ![UFO Sightings Webpage]([(https://github.com/RebeccaA79/-UFOs/blob/main/UFO%20Sightings%20HTML%20Webpage.png)])
+  ![UFO Sightings Webpage](https://github.com/RebeccaA79/-UFOs/blob/main/UFO%20Sightings%20HTML%20Webpage.png)
 
 
 Currently there is placeholder information in the various search fields. To perform a search using the city of San Diego as an example, type San Diego ion the search box next to "Enter a City" and hit the Enter button. The table will be filtered on the 3 sightings referencing San Diego. 
