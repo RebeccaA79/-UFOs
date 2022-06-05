@@ -29,20 +29,3 @@ To address this limitation, the following recommendations for development should
 
 2. Convert this project into a more modern data binding language such as react.js or angular. This would allow us to create reusable components for both our filter feature as well as our data table feature. 
   
-
-
-
-
-
-
-
-
-
-
-None of the code written is reusable if. 
-
-The summary addresses two additional recommendations for further development (4 pt)
-
-- convert the app.js file into a Javascropt class that would accept a list of arguments including a dataset that would allow us to reuse the code throughout the application as needed.
-
-- Convert this project into a more modern data binding language such as react.js or angular. This would allow us to create reusable components for both our filter feature as well as our data table feature. 
