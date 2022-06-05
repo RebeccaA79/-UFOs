@@ -4,6 +4,17 @@
 
 The purpose of this project was to expand the functionality of the UFO Sightings webpage, which at present only allowed users to search by date. Allowing users to search on multiple fields (such as city, state, country, and shape) at the same time creates a more customizable interface for users to perform an efficient search based on their unique parameters. Javascript was utilized  to display the UFO sightings data in a table format and further tailored by adding filters. Further styling of the HTML page was created by utilizing CSS. 
 
+[Link to UFO Sightings HTML file](https://github.com/RebeccaA79/-UFOs/blob/main/index_c.html)
+
+
+  Link to resource files utilized:
+
+  [Link to data file of UFO sightings] (https://github.com/RebeccaA79/-UFOs/tree/main/static/js/data.js)
+
+  [Link to app.js file] (https://github.com/RebeccaA79/-UFOs/blob/main/static/js/app.js)
+
+  [Link to css styles file] (https://github.com/RebeccaA79/-UFOs/blob/main/static/css/style.css)
+
 
 ## Results
 
